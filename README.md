@@ -6,8 +6,14 @@ The Madhav E-Commerce Store has tasked us with developing an interactive dashboa
 
 ## Dataset
 
-The dataset includes comprehensive details about orders, which form the basis for our analysis.
+The analysis utilizes the following datasets:
 
+- [Details Dataset](path/to/details.csv): Contains detailed information about various product categories and their attributes.
+- [Orders Dataset](path/to/orders.csv): Includes order data, such as customer details, order amounts, and payment methods.
+
+## Power BI Dashboard
+
+- [Interactive Dashboard](path/to/ecom.pbix): The Power BI file containing the interactive dashboard for analyzing sales data.
 
 ## Key Performance Indicators (KPIs)
 
