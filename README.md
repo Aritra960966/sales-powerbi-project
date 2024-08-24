@@ -24,6 +24,12 @@ The analysis utilizes the following datasets:
 5. **Monthly Profit Analysis:** Assess which months generate the highest and lowest profits.
 6. **Sub-Category Performance:** Identify which product sub-categories contribute the most to profits.
 
+## Dashboard Preview
+
+Here’s a snapshot of the interactive dashboard:
+
+![Dashboard Preview](https://github.com/Aritra960966/sales-powerbi-project/blob/main/ecom%20-%20Copy-1.png)
+
 ## Process
 
 1. **Dashboard Creation:** Developed an interactive dashboard using Power BI to track and analyze online sales data.
